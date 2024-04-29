@@ -6,6 +6,8 @@ disabled_rules:
 - cyclomatic_complexity
 - type_body_length
 - file_length
+- todo
+
 opt_in_rules:
 - empty_count
 - empty_string

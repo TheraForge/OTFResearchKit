@@ -1374,7 +1374,7 @@ enum TaskListRow: Int, CustomStringConvertible {
         videoCaptureStep.accessibilityHint = NSLocalizedString("Captures the video visible in the preview", comment: "")
         videoCaptureStep.templateImage = UIImage(named: "hand_outline_big")!
         videoCaptureStep.templateImageInsets = UIEdgeInsets(top: 0.05, left: 0.05, bottom: 0.05, right: 0.05)
-        videoCaptureStep.duration = 30.0; // 30 seconds
+        videoCaptureStep.duration = 30.0 // 30 seconds
         
         return ORKOrderedTask(identifier: String(describing: Identifier.videoCaptureTask), steps: [
             instructionStep,

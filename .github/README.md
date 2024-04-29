@@ -6,9 +6,16 @@ The detailed documentation is available here: https://github.com/TheraForge/OTFR
 
 ## Change Log
 <details open>
+<summary>Release 1.0.4-beta</summary>
+<ul>
+  <li>Added WatchOS target</li>
+</ul>
+</details>
+
+<details>
 <summary>Release 1.0.3-beta</summary>
 <ul>
-    <li>Added Watch OS support</li>
+  <li>Added WatchOS support</li>
 </ul>
 </details>
 
