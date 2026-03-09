@@ -6,14 +6,21 @@ The detailed documentation is available here: https://github.com/TheraForge/OTFR
 
 ## Change Log
 <details open>
-<summary>Release 1.0.4-beta</summary>
+<summary>Release 2.0.0-tf.2</summary>
+<ul>
+  <li>Updated dependencies for TheraForge 2.0.0 release</li>
+</ul>
+</details>
+
+<details>
+<summary>Release 2.0.0-beta.4</summary>
 <ul>
   <li>Added WatchOS target</li>
 </ul>
 </details>
 
 <details>
-<summary>Release 1.0.3-beta</summary>
+<summary>Release 2.0.0-beta.3</summary>
 <ul>
   <li>Added WatchOS support</li>
 </ul>
